@@ -66,5 +66,35 @@ background-size: 250px;
     padding-right: 200px;
 }
 
+.nicher-flexible-container{display: flex;}
+
+.exp{padding-left: 30px;}
+
+span{ color: rgb(107, 44, 7);}
+
+.half-width3{ width: 100%;
+margin-left: 8% ;
+margin-right: 8%;
+padding-left: 50px;
+padding-right: 50px;
+font-size: 17px;
+box-shadow: 10px 10px 40px rgb(0, 0, 0);
+border-radius: 8%;
+}
+#fullstack{border-left: 7px solid rgb(255, 208, 0);
+border-bottom: 7px solid rgb(255, 208, 0);
+}
+#babyweb{border-left: 7px solid rgb(214, 86, 0);
+    border-bottom: 7px solid rgb(214, 86, 0); }
+.stp{text-align: justify ;}
+
+
+footer p{ 
+    text-align: center;
+}
+  
+
+
+
 
 
