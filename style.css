@@ -1,7 +1,7 @@
 body{  font-family: 'Itim', cursive;
     font-family: 'Poppins', sans-serif;
     font-family: 'Unbounded', cursive; 
-margin: 0%;
+ margin: 0%;
 }
 
     .top{ font-size: 40px;
@@ -41,8 +41,30 @@ body{background-image: linear-gradient(rgb(33, 83, 99),rgba(53, 53, 129, 0.541))
     color: whitesmoke;
 }
 .top-banner{background-image: url(image/topsidebanner.png);
-background-repeat: no-repeat;
+
+    background-repeat: no-repeat;
+
+}
+
+.bottom{font-size: 30px;
+    background-color: orange;
+    border: solid 10px;
+margin-right: 600px;
+}
+
+.half-width2{width: 50%; 
+padding-left: 100PX; 
+background-image: url(image/1stside-removebg-preview.png); 
+background-repeat: no-repeat; 
+background-size: 250px;
 
 
 
 }
+
+.half-width2 img{ width: 70%;
+    padding-right: 200px;
+}
+
+
+
